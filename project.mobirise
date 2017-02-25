@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Yanyont Phone",
-    "currentPage": "cart.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -352,7 +352,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>Yanyont Phone<br><br><br>\n<strong>Contacts</strong><br>\nPhone: 099-369-9894<br>",
+          "text1": "<strong>ช่องทางการติดต่อ</strong><strong><br></strong><br>มือถือ : 099-369-9894<br>",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -369,7 +369,7 @@
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "อีเมล์*"
               },
               "phone": {
                 "title": "Phone",
@@ -378,11 +378,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "ข้อความ"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ติดต่อเรา</a>"
         }
       ]
     },
@@ -1027,7 +1027,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>Yanyont Phone<br><br><br>\n<strong>Contacts</strong><br>\nPhone: 099-369-9894<br>",
+          "text1": "<strong>ช่องทางการติดต่อ</strong><strong><br></strong><br>มือถือ : 099-369-9894<br>",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1044,7 +1044,7 @@
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "อีเมล์*"
               },
               "phone": {
                 "title": "Phone",
@@ -1053,11 +1053,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "ข้อความ"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ติดต่อเรา</a>"
         }
       ]
     }
