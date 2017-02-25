@@ -492,3 +492,7 @@ h6,
 #menu-8 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
+  text-align: center;
+}
