@@ -418,6 +418,15 @@ h6,
   color: #f28281;
   font-size: 20px;
 }
+#msg-box1-j P {
+  font-size: 18px;
+}
+#msg-box1-j .btn {
+  font-size: 20px;
+}
+#form1-l .form-control-label {
+  color: #232323;
+}
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }

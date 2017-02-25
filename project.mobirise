@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -112,11 +112,11 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#7e9b9f",
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1609.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -124,7 +124,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -193,15 +193,19 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-600x784.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title5": "OPPO R9S",
+          "subtitle5": "มาาา แร้ววววว  วันนี้ เว่อร์ๆๆๆ ปังๆๆๆ&nbsp;<div>ไม่เด่น  ไม่ดี  ไม่ดัง ไม่ใช่ยานยนต์ คร้าเชิญพบกับการเปิดตัวใหม่ของ OPPO R9S  ที่นี้เพียงแห่งเดียวในเมืองชัยภูมิ ตัวใหม่ล่าสุด ด้วยจอ FHD 5.5  ด้วย Ram 4 GB Rom 64 GB</div><div>กล้องหน้าและหลัง 16 ล้าน&nbsp;</div><div>สแกนลายนิ้วมือเร็วมาก ในเวลา 0.2 วินาที&nbsp;</div><div>มีBox Set R9s แถม</div><div>1-นาฬิกาwatch *</div><div>2-หูฟังบูทูธ&nbsp;</div><div>3-ไม้เซลฟี่</div><div>4-บัตรVIP 1ใบ</div><div>คือ ประกันจอแตก1ปี เปลี่ยนฟรี 1ครั้ง และยืดเวลาประกันตัวเครื่องเป็น1ปี6เดือน&nbsp;</div><div>และอื่นๆๆ อีกมากมาย รวม ๆ 10 รายการเลยที่เดียว ด้วยค่ะ&nbsp;</div><div>มาเลยนะค่ะ ....มาสัมผัสกันได้ที่ร้านยานยนต์ทั้ง 3 สาขา ค่ะ</div><div>ในราคา 14,990 บาทนะค่ะ</div>",
+          "caption5": "14,900 บาท",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -215,6 +219,101 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-l\" data-toolbar=\"-mbrBtnMove\">แจ้งชำระเงิน</a>",
+          "text": "<p><b>วิธีการสั่งซื้อ</b></p><p>1. แจ้งสินค้า รุ่น สี &nbsp;จำนวน ที่ต้องการ</p><p>2. โอนเงินเข้า</p><p>&nbsp; &nbsp; ธนาคาร กสิกรไทย สาขา พรอมเมนาด้า เชียงใหม่</p><p>&nbsp; &nbsp; ชื่อบัญชี นายดิษพงษ์ ศุกระรัศมี<br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เลขที่บัญชี 0188234704</p><p>3. แจ้งโอนเงินผ่านหน้าเวป</p>",
+          "title": "",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-l",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "แจ้งชำระเงิน",
+          "subtitle": "",
+          "form": {
+            "action": "ditsapongh@gmail.com",
+            "alerts": {
+              "success": "ขอบคุณที่แจ้งการชำระเงิน เราจะดำเนินการตรวจสอบและติดต่อกลับโดยเร็วที่สุด"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ชื่อ*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "เบอร์โทร"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "แจ้งวัน,เวลาและยอดที่โอน"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">แจ้งชำระเงิน</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_styles": {
@@ -300,7 +399,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;iOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Android</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;iOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Android</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>โปรโมชั่น</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>วิธีการสั่งซื้อ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>แจ้งชำระเงิน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -309,8 +408,8 @@
           "_name": "contacts4",
           "_anchor": "contacts4-g",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -320,7 +419,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>Yanyont Phone CNX<br><br><br>\n<strong>Contacts</strong><br>\nPhone: 099-369-9894",
+          "text1": "<strong>Address</strong><br>Yanyont Phone<br><br><br>\n<strong>Contacts</strong><br>\nPhone: 099-369-9894<br>",
           "text2": "",
           "form": {
             "title": "MESSAGE",
