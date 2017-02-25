@@ -418,6 +418,10 @@ h6,
   color: #f28281;
   font-size: 20px;
 }
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box1-j P {
   font-size: 18px;
 }

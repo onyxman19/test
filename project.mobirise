@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -104,14 +104,34 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "สินค้ามาใหม่ โปรแรงสุดๆ",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
           "_anchor": "features3-6",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1609.jpg",
@@ -181,10 +201,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-56393923-filter-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Huawei Mate9 Pro",
@@ -204,7 +228,7 @@
             }
           },
           "title5": "OPPO R9S",
-          "subtitle5": "มาาา แร้ววววว  วันนี้ เว่อร์ๆๆๆ ปังๆๆๆ&nbsp;<div>ไม่เด่น  ไม่ดี  ไม่ดัง ไม่ใช่ยานยนต์ คร้าเชิญพบกับการเปิดตัวใหม่ของ OPPO R9S  ที่นี้เพียงแห่งเดียวในเชียงใหม่ ตัวใหม่ล่าสุด ด้วยจอ FHD 5.5  ด้วย Ram 4 GB Rom 64 GB</div><div>กล้องหน้าและหลัง 16 ล้าน&nbsp;</div><div>สแกนลายนิ้วมือเร็วมาก ในเวลา 0.2 วินาที&nbsp;</div><div>มีBox Set R9s แถม</div><div>1-นาฬิกาwatch *</div><div>2-หูฟังบูทูธ&nbsp;</div><div>3-ไม้เซลฟี่</div><div>4-บัตรVIP 1ใบ</div><div>คือ ประกันจอแตก1ปี เปลี่ยนฟรี 1ครั้ง และยืดเวลาประกันตัวเครื่องเป็น1ปี6เดือน&nbsp;</div><div>และอื่นๆๆ อีกมากมาย รวม ๆ 10 รายการเลยที่เดียว ด้วยค่ะ&nbsp;</div><div>มาเลยนะค่ะ ....มาสัมผัสกันได้ที่ร้านยานยนต์ทั้ง 3 สาขา ค่ะ</div><div>ในราคา 14,990 บาทนะค่ะ</div>",
+          "subtitle5": "มาาา แร้ววววว  วันนี้ เว่อร์ๆๆๆ ปังๆๆๆ&nbsp;<div>ไม่เด่น  ไม่ดี  ไม่ดัง ไม่ใช่ยานยนต์ คร้าเชิญพบกับการเปิดตัวใหม่ของ OPPO R9S &nbsp;ตัวใหม่ล่าสุด ด้วยจอ FHD 5.5  ด้วย Ram 4 GB Rom 64 GB</div><div>กล้องหน้าและหลัง 16 ล้าน&nbsp;</div><div>สแกนลายนิ้วมือเร็วมาก ในเวลา 0.2 วินาที&nbsp;</div><div>มีBox Set R9s แถม</div><div>1-นาฬิกาwatch *</div><div>2-หูฟังบูทูธ&nbsp;</div><div>3-ไม้เซลฟี่</div><div>4-บัตรVIP 1ใบ</div><div>คือ ประกันจอแตก1ปี เปลี่ยนฟรี 1ครั้ง และยืดเวลาประกันตัวเครื่องเป็น1ปี6เดือน&nbsp;</div><div>และอื่นๆๆ อีกมากมาย รวม ๆ 10 รายการเลยทีเดียว ด้วยค่ะ&nbsp;</div><div>ในราคา 14,990 บาทนะค่ะ</div>",
           "caption5": "14,900 บาท",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
@@ -528,7 +552,7 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
