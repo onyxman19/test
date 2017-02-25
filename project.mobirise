@@ -565,6 +565,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
             }
           },
           "_tags": [
