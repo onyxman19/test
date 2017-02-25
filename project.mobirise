@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -204,20 +204,24 @@
             }
           },
           "title5": "OPPO R9S",
-          "subtitle5": "มาาา แร้ววววว  วันนี้ เว่อร์ๆๆๆ ปังๆๆๆ&nbsp;<div>ไม่เด่น  ไม่ดี  ไม่ดัง ไม่ใช่ยานยนต์ คร้าเชิญพบกับการเปิดตัวใหม่ของ OPPO R9S  ที่นี้เพียงแห่งเดียวในเมืองชัยภูมิ ตัวใหม่ล่าสุด ด้วยจอ FHD 5.5  ด้วย Ram 4 GB Rom 64 GB</div><div>กล้องหน้าและหลัง 16 ล้าน&nbsp;</div><div>สแกนลายนิ้วมือเร็วมาก ในเวลา 0.2 วินาที&nbsp;</div><div>มีBox Set R9s แถม</div><div>1-นาฬิกาwatch *</div><div>2-หูฟังบูทูธ&nbsp;</div><div>3-ไม้เซลฟี่</div><div>4-บัตรVIP 1ใบ</div><div>คือ ประกันจอแตก1ปี เปลี่ยนฟรี 1ครั้ง และยืดเวลาประกันตัวเครื่องเป็น1ปี6เดือน&nbsp;</div><div>และอื่นๆๆ อีกมากมาย รวม ๆ 10 รายการเลยที่เดียว ด้วยค่ะ&nbsp;</div><div>มาเลยนะค่ะ ....มาสัมผัสกันได้ที่ร้านยานยนต์ทั้ง 3 สาขา ค่ะ</div><div>ในราคา 14,990 บาทนะค่ะ</div>",
+          "subtitle5": "มาาา แร้ววววว  วันนี้ เว่อร์ๆๆๆ ปังๆๆๆ&nbsp;<div>ไม่เด่น  ไม่ดี  ไม่ดัง ไม่ใช่ยานยนต์ คร้าเชิญพบกับการเปิดตัวใหม่ของ OPPO R9S  ที่นี้เพียงแห่งเดียวในเชียงใหม่ ตัวใหม่ล่าสุด ด้วยจอ FHD 5.5  ด้วย Ram 4 GB Rom 64 GB</div><div>กล้องหน้าและหลัง 16 ล้าน&nbsp;</div><div>สแกนลายนิ้วมือเร็วมาก ในเวลา 0.2 วินาที&nbsp;</div><div>มีBox Set R9s แถม</div><div>1-นาฬิกาwatch *</div><div>2-หูฟังบูทูธ&nbsp;</div><div>3-ไม้เซลฟี่</div><div>4-บัตรVIP 1ใบ</div><div>คือ ประกันจอแตก1ปี เปลี่ยนฟรี 1ครั้ง และยืดเวลาประกันตัวเครื่องเป็น1ปี6เดือน&nbsp;</div><div>และอื่นๆๆ อีกมากมาย รวม ๆ 10 รายการเลยที่เดียว ด้วยค่ะ&nbsp;</div><div>มาเลยนะค่ะ ....มาสัมผัสกันได้ที่ร้านยานยนต์ทั้ง 3 สาขา ค่ะ</div><div>ในราคา 14,990 บาทนะค่ะ</div>",
           "caption5": "14,900 บาท",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-56664297-filter-600x800.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title6": "Host Anywhere",
+          "title6": "ZTE F327",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "caption6": "790 บาท",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -399,7 +403,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;iOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Android</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>โปรโมชั่น</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>วิธีการสั่งซื้อ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>แจ้งชำระเงิน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;iOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Android</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>โปรโมชั่น</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>รีวิวลูกค้า</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-o\" aria-expanded=\"false\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>รูปหน้าร้าน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>วิธีการสั่งซื้อ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\" aria-expanded=\"false\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>แจ้งชำระเงิน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -450,6 +454,88 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0006-filter-2000x2667-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-0006-filter-2000x2667.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0002-filter-2000x1458-800x583.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-0002-filter-2000x1458.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0003-filter-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-0003-filter-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0004-filter-2000x1600-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-0004-filter-2000x1600.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0005-filter-2000x1220-800x488.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-0005-filter-2000x1220.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0001-filter-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-0001-filter-2000x2400.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-o",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
