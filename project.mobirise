@@ -71,7 +71,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true
           },
           "media": {
@@ -101,7 +101,7 @@
           },
           "title": "YANYONT PHONE",
           "text": "Smartphone x Tablet x Gadget",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://line.me/R/ti/p/%401689gadget\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>เพิ่มLine@</a>"
         },
         {
           "_styles": {
@@ -352,7 +352,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ช่องทางการติดต่อ</strong><strong><br></strong><br>มือถือ : 099-369-9894<br>",
+          "text1": "<strong>ช่องทางการติดต่อ</strong><strong><br></strong><br>มือถือ : 099-369-9894<br>Line : @1689gadget",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -862,7 +862,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-l\" data-toolbar=\"-mbrBtnMove\">แจ้งชำระเงิน</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"cart.html#form1-1a\" data-toolbar=\"-mbrBtnMove\">แจ้งชำระเงิน</a>",
           "text": "<p>1. แจ้งสินค้า รุ่น สี &nbsp;จำนวน ที่ต้องการ<br></p><p>2. โอนเงินเข้า</p><p>&nbsp; &nbsp; ธนาคาร กสิกรไทย สาขา พรอมเมนาด้า เชียงใหม่</p><p>&nbsp; &nbsp; ชื่อบัญชี นายดิษพงษ์ ศุกระรัศมี<br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เลขที่บัญชี 0188234704</p><p>3. แจ้งโอนเงินผ่านหน้าเวป</p>",
           "title": ""
         },
@@ -1027,7 +1027,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ช่องทางการติดต่อ</strong><strong><br></strong><br>มือถือ : 099-369-9894<br>",
+          "text1": "<strong>ช่องทางการติดต่อ</strong><strong><br></strong><br>มือถือ : 099-369-9894<br>Line : @1689gadget",
           "text2": "",
           "form": {
             "title": "MESSAGE",
