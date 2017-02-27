@@ -71,7 +71,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
@@ -149,7 +149,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -166,7 +166,7 @@
           "title1": "iPhone 5S",
           "subtitle1": "ไอโฟน 5S เครื่องศูนย์ TH ของใหม่จ้า ประกัน1ปี",
           "caption1": "13,500 บาท",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://line.me/R/ti/p/%401689gadget\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">สั่งซื้อ</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/s-1-600x800.jpg",
@@ -182,7 +182,7 @@
           "title2": "ACER Z330",
           "subtitle2": "เข้ามาแล้วคร้า..กับ acer Z330 ในราคา 2,590 บาท<br>มี 2 สี ดำและขาว แถมฟิลม์แถมเคส คุ้มม๊วกกกกก....!!!!!!",
           "caption2": "2,590 บาท",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">สั่งซื้อ</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/s-600x616.jpg",
@@ -198,7 +198,7 @@
           "title3": "OPPO A37",
           "subtitle3": "สต๊อคร้อนๆๆกับ OPPO A37 ลดราคาพิเศษ เหลือ 4,990 บาท มี 2 สี ชมพูและทอง รีบๆๆมาอุดหนุนนะค่ะ",
           "caption3": "4,990 บาท",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">สั่งซื้อ</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/s-56393923-filter-600x450.jpg",
@@ -214,7 +214,7 @@
           "title4": "Huawei Mate9 Pro",
           "subtitle4": "มาแร้ววววว...Huawei Mate9 Pro ในราคา 27,900 บาท&nbsp;<div>❤❤❤❤❤❤❤❤❤❤</div><div>ระบบปฏิบัติการ: Android 7.0&nbsp;</div><div>หน่วยความจำ&nbsp;</div><div>- ROM 128GB&nbsp;</div><div>- RAM 6GB</div><div>กล้องดิจิตอล 20 ล้านพิกเซล + 12 ล้านพิกเซล (Dual Camera)</div><div>- รูรับแสงขนาด ƒ/2.2</div><div>- พร้อมแฟลช</div><div>กล้องหน้า (Front Camera)</div><div>- ความละเอียด 8 MP</div><div>- รูรับแสงขนาด ƒ/1.9</div>",
           "caption4": "27,900 บาท",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">สั่งซื้อ</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/s-56606881-filter-600x680.jpg",
@@ -230,7 +230,7 @@
           "title5": "OPPO R9S",
           "subtitle5": "มาาา แร้ววววว  วันนี้ เว่อร์ๆๆๆ ปังๆๆๆ&nbsp;<div>ไม่เด่น  ไม่ดี  ไม่ดัง ไม่ใช่ยานยนต์ คร้าเชิญพบกับการเปิดตัวใหม่ของ OPPO R9S &nbsp;ตัวใหม่ล่าสุด ด้วยจอ FHD 5.5  ด้วย Ram 4 GB Rom 64 GB</div><div>กล้องหน้าและหลัง 16 ล้าน&nbsp;</div><div>สแกนลายนิ้วมือเร็วมาก ในเวลา 0.2 วินาที&nbsp;</div><div>มีBox Set R9s แถม</div><div>1-นาฬิกาwatch *</div><div>2-หูฟังบูทูธ&nbsp;</div><div>3-ไม้เซลฟี่</div><div>4-บัตรVIP 1ใบ</div><div>คือ ประกันจอแตก1ปี เปลี่ยนฟรี 1ครั้ง และยืดเวลาประกันตัวเครื่องเป็น1ปี6เดือน&nbsp;</div><div>และอื่นๆๆ อีกมากมาย รวม ๆ 10 รายการเลยทีเดียว ด้วยค่ะ&nbsp;</div><div>ในราคา 14,990 บาทนะค่ะ</div>",
           "caption5": "14,900 บาท",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">สั่งซื้อ</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/s-56664297-filter-600x800.jpg",
@@ -246,7 +246,7 @@
           "title6": "ZTE F327",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "790 บาท",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">สั่งซื้อ</a>"
         },
         {
           "_styles": {
